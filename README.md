@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Georg Smithon 👋
 
-<!--
-**qe1000128-max/qe1000128-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI agent enthusiast based in Shanghai, China. I explore LLM tools, automation,
+and open-source projects — and I like testing new platforms hands-on.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Trying out **AgentScope / QwenPaw** and other personal AI agent platforms
+- 📈 Running a fork of **daily_stock_analysis** — an LLM-powered multi-market
+  stock analysis system with scheduled daily reports
+- 🛠️ Small deployment experiments (Node.js test apps, health checks, uptime)
+
+## Interests
+
+- LLM agents & MCP tooling
+- Self-hosted utilities and free-tier platforms
+- Market data automation
+
+## Repos
+
+- `daily_stock_analysis` (fork) — LLM-driven stock analysis, runs on GitHub Actions
+- `abasthan-test-127` — minimal Node.js deployment test app (`/health` endpoint)
